@@ -7,7 +7,7 @@ I'm a Web Developer
 *   🌍  I'm based in Germany, Mühlhausen/Thüringen
 *   🖥️  See my portfolio at [MyPortfolio](http://alistoicakovacs.github.io)
 *   ✉️  You can contact me at [alistoicakovacs@icloud.com](mailto:alistoicakovacs@icloud.com)
-*   🧠  I'm currently learning Javascript, PHP, Wordpress *with main focus on Wordpress
+*   🧠  I'm currently learning Javascript, PHP, Wordpress *with main focus on Wordpress and PHP.
 *   🤝  I'm open to collaborating on anything.
 
 ### Skills
