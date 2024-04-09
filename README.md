@@ -6,7 +6,7 @@ Web Developer and UI / UX Designer
 
 * 🌍  I'm based in Germany, Mühlhausen/Thüringen
 * ✉️  You can contact me at [alistoicakovacs@icloud.com](mailto:alistoicakovacs@icloud.com)
-* 🧠  I'm learning PHP, Wordpress, Javascript UI / UX Design, Figma
+* 🧠  I'm learning PHP, Wordpress, Javascript, UI / UX Design, Figma
 * 🤝  I'm open to collaborating on I'm open to collaborating on anything.
 * ⚡  Whatever you are, be a good one!🤞 - Abraham Lincoln
 
